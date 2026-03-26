@@ -1,4 +1,4 @@
 # Dosa
 
 * Dosa Flour
-* Light oil
+* Light sunflower oil
