@@ -1,2 +1,3 @@
 echo "hi Dosa Project started , and did some enhancement"
-echo "Hi Juice project also started"
+echo "Hi Juice project also started, did some enhancement"
+
